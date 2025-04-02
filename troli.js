@@ -23,7 +23,6 @@ function jaratKiiras(elem, index){
 
 function vegallomasKiiras(jarat){
     document.getElementById("vegallomasok").innerHTML=vegallomasNevek[jarat];
-    document.getElementById("vegallomasok").style.visibility="visible";
 }
 
 function fel() {
